@@ -1,0 +1,25 @@
+R programmering:
+
+Viktige ord og utrykk
+  - R som kalkulator
+  - Generere tall
+  - Laste inn tabeller
+  - Strings""
+
+
+
+Data visualisering
+  - GGplot2
+  - ggplot(data = <DATA>) +
+      <GEOM_FUNCTION>(mapping = aes(<MAPPINGS>))
+    Eller
+  - ggplot(<DATA>, aes (x =, y = )) +
+      <GEOM_FUNCTIOn>()
+  - Jobb med dataset <MPG>
+  - Teste ulike former for aes
+
+
+
+Mer introduksjon til programmering
+Jobbe med Data
+Endelig skripting
